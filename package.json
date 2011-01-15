@@ -1,0 +1,13 @@
+{
+  "name": "node-downloader",
+  "description": "A simple downloader using all the power from wget",
+  "tags": ["downloader","download","wget"],
+  "version": "0.0.1",
+  "author": "Ricardo Borelli <rabc@oliive.com.br>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rabc/node-downloader.git"
+  },
+  "bugs": "http://github.com/rabc/node-downloader/issues",
+  "main": "./lib/node_download.js"
+}
